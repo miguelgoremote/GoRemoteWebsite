@@ -1,4 +1,3 @@
-import React from 'react';
 import { LegalLayout } from '../components/LegalLayout';
 import { useLanguage } from '../contexts/LanguageContext';
 
